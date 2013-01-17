@@ -1,7 +1,7 @@
 {
     "author": "torworx",
     "name": "eventbus",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": false,
     "main": "index.js",
     "engines": {
@@ -12,7 +12,8 @@
     },
     "dependencies": {
         "node-uuid": ">=1.4.0",
-        "underscore": "*"
+        "underscore": "latest",
+        "ovy": "latest"
     },
     "devDependencies": {
         "mocha": ">= 1.8.1",
