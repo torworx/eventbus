@@ -16,8 +16,7 @@
     },
     "devDependencies": {
         "mocha": ">= 1.8.1",
-        "expect.js": ">= 0.1.2",
-        "rule-validator": ">= 0.1.1"
+        "expect.js": ">= 0.1.2"
     },
     "description": "Event bus",
     "keywords"    : [
