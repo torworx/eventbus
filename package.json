@@ -32,12 +32,6 @@
     "bugs": {
         "url": "https://github.com/torworx/eventbus/issues"
     },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://raw.github.com/torworx/eventbus/master/licence"
-        }
-    ],
     "scripts" : {
         "test" : "mocha && mocha test/EventBusTest.js"
     }
