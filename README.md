@@ -1,4 +1,4 @@
 ebus
 ====
 
-EBus provides a mechanism that dispatches events to the subscribed event listeners.
+EventBus provides a mechanism that dispatches events to the subscribed event listeners.
