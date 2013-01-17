@@ -6,8 +6,7 @@ describe('EventBus', function(){
 
         var Accounts = {
             handlers: {
-                create_user: function(event, callback) {
-                    var user = event.payload;
+                create_user: function(user, callback) {
                     console.log('Created user: ' + user);
                     callback(null, user);
                 }
